@@ -10,6 +10,7 @@ I use the following JSON schema to describe my tasting notes
 ````javascript
 {
   name: "Example", // name of the drink
+  glass: "tulip", // type of the used glass
   properties: { // custom properties (e.g. IBU for beer)
     key: value,
   },
