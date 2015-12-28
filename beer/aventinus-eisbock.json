@@ -1,0 +1,21 @@
+{
+  "time": "2015-12-28T20:45:00.000Z",
+  "name": "Schneider Weisse Aventinus Weizen Eisbock",
+  "glass": "tulip",
+  "properties": {
+    "alcohol": 12,
+    "wort": 28
+  },
+  "rating": {
+    "foam": 4,
+    "color": 6,
+    "smell": 7,
+    "appearance": 7,
+    "taste": 7,
+    "bitterness": 5,
+    "sourness": 5,
+    "sparkling": 5,
+    "aftertaste": 8,
+    "drinkability": 5
+  }
+}
