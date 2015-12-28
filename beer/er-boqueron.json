@@ -1,0 +1,23 @@
+{
+  "time": "2015-12-28T20:00:00.000Z",
+  "name": "Er Boquerón",
+  "glass": "tulip",
+  "properties": {
+    "extraordinary": true,
+    "alcohol": 4.8,
+    "wort": 12.2
+  },
+  "rating": {
+    "foam": 2,
+    "color": 5,
+    "smell": 6,
+    "appearance": 3,
+    "taste": 5,
+    "bitterness": 2,
+    "sourness": 3,
+    "sparkling": 3,
+    "aftertaste": 6,
+    "drinkability": 10
+  },
+  "comments": "Er Boquerón is brewed with sea water. The pressure in the bottle was very high, so that a part of the content is bubbled out when opening. It smells a bit of vomit, but enjoyable. Tastes slightly salty. It has no special flavor, but a high drinkability."
+}
